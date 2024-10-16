@@ -1,26 +1,23 @@
 Correo electronico
-	lemn333@gmail.com
+	lemn333@hotmail.com
 Nombre repositorio
-	LemnCrabLeon 
+	LenCrabLeon 
 	ConcentradoTotal
-	MiRepositorioLeonMendoza
+	RepositorioLeonMendoza
 Direccion electronica de mi repositorio
-	https://github.com/LemnCrabLeon/MiPrimerRepositorio.git
+	https://github.com/RepositorioLeonMendoza/MiPrimerRepositorio.git
 Creacion del repositorio
 	echo "# MiPrimerRepositorio" >> README.md
 	git init
 	git add README.md
 	git commit -m "first commit"
 	git branch -M main
-	git remote add origin https://github.com/LemnCrabLeon/MiPrimerRepositorio.git
+	git remote add origin https://github.com/RepositorioLeonMendoza/MiPrimerRepositorio.git
 	git push -u origin main
-	git remote add origin https://github.com/LemnCrabLeon/MiPrimerRepositorio.git
+	git remote add origin https://github.com/RepositorioLeonMendoza/MiPrimerRepositorio.git
 	git branch -M main
 	git push -u origin main
 Actualizacion del repositorio
 	git add .
 	git commit -m "first commit"
 	git push -u origin main
-Identificacion del repositorio
-	git config --global user.email "lemn333@gmail.com"
-    git config --global user.name "LemnCrabLeon"
